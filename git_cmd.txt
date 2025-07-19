@@ -3,6 +3,6 @@ git status
 ls/dir
 git add .
 git commit -m ""
-rm file name 
+rm file  
 git restore file name 
 git rm --cached file name 
