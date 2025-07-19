@@ -2,7 +2,5 @@ git init
 git status
 ls/dir
 git add .
-git commit -m ""
-rm file  
-git restore file name 
+git 
 git rm --cached file name 
